@@ -1,6 +1,6 @@
 ## 用Flutter构建一个 视频 / 通话 / 联系人管理 应用
 
-​																																																			——created by qdl in 2020/11/294
+​																																																			——created by qdl in 2020/11/29
 
 ![image-20201129161550357](https://i.loli.net/2020/12/30/e4i5HS3toZBCLg8.png) 
 
